@@ -13,10 +13,10 @@ sem nuvem.
 
 <br/>
 
-[![Baixar última versão](https://img.shields.io/badge/⬇️_Baixar_agora-Windows-22e39a?style=for-the-badge&labelColor=060a14)](https://github.com/Gril0/FootBall-Manager---MoneyBall-APP/releases/latest)
+[![Baixar última versão](https://img.shields.io/badge/⬇️_Baixar_agora-Windows-22e39a?style=for-the-badge&labelColor=060a14)](https://github.com/Gril0/FM26-Moneyball/releases/latest)
 
-![Última versão](https://img.shields.io/github/v/release/Gril0/FootBall-Manager---MoneyBall-APP?style=flat-square&label=vers%C3%A3o&color=22e39a&labelColor=060a14)
-![Downloads](https://img.shields.io/github/downloads/Gril0/FootBall-Manager---MoneyBall-APP/total?style=flat-square&label=downloads&color=26d6f2&labelColor=060a14)
+![Última versão](https://img.shields.io/github/v/release/Gril0/FM26-Moneyball?style=flat-square&label=vers%C3%A3o&color=22e39a&labelColor=060a14)
+![Downloads](https://img.shields.io/github/downloads/Gril0/FM26-Moneyball/total?style=flat-square&label=downloads&color=26d6f2&labelColor=060a14)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows-informational?style=flat-square&labelColor=060a14)
 ![Auto-update](https://img.shields.io/badge/auto--update-sim-gold?style=flat-square&labelColor=060a14)
 
@@ -92,7 +92,7 @@ nada é enviado para a internet.
 
 ## 📥 Download e instalação
 
-➡️ **[Baixar a última versão](https://github.com/Gril0/FootBall-Manager---MoneyBall-APP/releases/latest)**
+➡️ **[Baixar a última versão](https://github.com/Gril0/FM26-Moneyball/releases/latest)**
 
 Escolha o formato:
 
